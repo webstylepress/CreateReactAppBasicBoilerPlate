@@ -1,0 +1,13 @@
+body {
+  padding: 40px;
+  font-size: 26px;
+}
+
+.App {
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 26px;
+}
